@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+   #logo{
+    height: 115px;
+   margin-left: 35%;
+   }
+   #professora{
+    height: 125px;
+   margin-left: 35%;
+   margin-top: 80px;
+   }
+   #leitura{
+    height: 125px;
+   margin-left: 35%;
+   }
+#seta{
+    height: 45px;
+    margin-left: 5%;
+}
+#prof{
+    margin-left: 35%;
+    border-radius: 15px;
+    background-color: #AD2A5A;
+    font-family: Arial, sans-serif;
+    color: white;
+    border: #AD2A5A;
+    font-family: 'Poppins', sans-serif;
+
+}
+#aluno{
+    margin-left: 45%;
+    border-radius: 15px;
+    background-color: #AD2A5A;
+    font-family: Arial, sans-serif;
+    color: white;
+    border: #AD2A5A;
+    font-family: 'Poppins', sans-serif;
+
+}

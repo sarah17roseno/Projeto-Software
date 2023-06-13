@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;    background-color: white;
+  }
+  
+  .container {
+    padding: 15px;
+    color: white;
+    margin-top: 50%;
+  }
+  
+  .container h4 {
+    margin-top: 0;
+    margin: 20 0 18px;
+  }
+  
+  #filtrar-questoes {
+    width: 100%;
+    padding: 15px;
+    margin-top: 50px;
+    background-color: white;
+    color: #b7255b;
+    border: none;
+    border-radius: 50px;
+  }
+  
+  .center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #b7255b;
+    padding: 50px;
+    border-radius: 50px;
+    }
+  
+    select {
+        outline: 0;
+        box-shadow:none;
+        border: solid 2px;
+        border-radius: 50px;
+        background: white;
+        flex: 1;
+        padding: 0 .5em;
+        margin-top: 10px;
+        color: #b7255b;
+        cursor: pointer;
+        font-size: 1em;
+     }
+  
+     .select {
+        position: relative;
+        display: flex;
+        width: 20em;
+        height: 3em;
+        line-height: 3;
+        background: #b7255b;
+        overflow: hidden;
+        border-radius: .25em;
+     }

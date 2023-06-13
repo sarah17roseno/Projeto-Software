@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+    body{
+        font-family: 'Poppins', sans-serif;
+    }
+
+#lei {
+    width: 60px;
+}
+
+#l {
+    background-color: #AD2A5A;
+    color: aliceblue;
+    border-radius: 34%;
+    border: aliceblue;
+    margin-right: 100%;
+    margin-bottom: 50px;
+    margin-left: 2PX;
+}
+
+#quest {
+    margin-left: 35%;
+    border-radius: 15px;
+    background-color: #AD2A5A;
+    font-family: Arial, sans-serif;
+    color: white;
+    border: #AD2A5A;
+    width: 120px;
+    height: 20px;
+    display: block;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+#pro {
+    margin-left: 34%;
+    border-radius: 15px;
+    background-color: #AD2A5A;
+    font-family: Arial, sans-serif;
+    color: white;
+    border: #AD2A5A;
+    width: 120px;
+    height: 20px;
+    display: block;
+    text-align: center;
+}
+
+
+#vi {
+    margin-left: 35%;
+    border-radius: 15px;
+    background-color: #AD2A5A;
+    font-family: Arial, sans-serif;
+    color: white;
+    border: #AD2A5A;
+    width: 120px;
+    height: 20px;
+    display: block;
+    text-align: center;
+}
+#direita{
+    width: 60px;
+}
+#F{
+    text-align: center;
+}
+#le{
+    width: 40px;
+    margin-left: 150px;
+    margin-top: 0,1px;
+}
+#ba{
+    background-color: #AD2A5A;
+    border-radius: 15px;
+    color: aliceblue;
+    margin-left: 12px;
+    margin-top: 50px;
+    height: 38px;
+}
+#a2{
+    margin-left: 25px;
+    margin-top: 2px;
+}

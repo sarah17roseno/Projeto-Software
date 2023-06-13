@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+  }
+  
+  .container006 {
+    padding: 15px;
+    color: white;
+    margin-top: 35%;
+  }
+  
+  .container h4 {
+    margin-top: 10%;
+    margin: 20 0 18px;
+  }
+  
+  #paginicial {
+    width: 100%;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: white;
+    color: #b7255b;
+    border: none;
+    border-radius: 50px;
+  }
+  
+  .center006 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #b7255b;
+    padding: 50px;
+    border-radius: 50px;
+    }
+  
